@@ -1,0 +1,10 @@
+Name:  Faizan
+Admission no:  324234
+Percentage:  99
+
+
+Name:  Abduallah
+Admission no:  45435
+Percentage:  65
+
+
